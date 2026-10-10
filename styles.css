@@ -33,7 +33,7 @@ p{color:var(--muted);margin-bottom:12px}
 
 footer{text-align:center;padding:30px;color:var(--muted);border-top:1px solid #223049}
 
-.reveal{opacity:0;transform:translateY(24px);transition:2s}
+.reveal{opacity:0;transform:translateY(24px);transition:1.5s}
 .reveal.show{opacity:1;transform:none}
 
 @media(max-width:700px){
