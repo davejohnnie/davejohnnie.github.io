@@ -44,3 +44,8 @@ footer{text-align:center;padding:30px;color:var(--muted);border-top:1px solid #2
   .hero{flex-direction:column-reverse;text-align:center}
   .links{justify-content:center}
 }
+
+.meta{color:var(--accent);font-size:.9rem;margin-bottom:8px}
+.lab-points{list-style:none;margin:10px 0 14px}
+.lab-points li{color:var(--muted);font-size:.92rem;margin-bottom:6px}
+.lab-points b{color:var(--text)}
